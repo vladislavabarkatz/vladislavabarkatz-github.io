@@ -1,0 +1,77 @@
+body{
+	background: #A7D4D9
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100px;
+    text-align: center;
+    font-family:  'Aref Ruqaa', serif;
+    color: #e16879 !important;
+}
+
+div{
+	text-align: center
+}
+
+a{
+	color: black;
+	font-size: 40px;
+}
+
+.btn-default{
+	background-color: #2FACBA;
+}
+
+.container{
+	padding-bottom: 40px
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2FACBA;
+    border-radius: 10px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: ;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.text-right{ 
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+
+.card {
+  border-color: #ccc;
+  text-align: left!important;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.jumbotron{padding: 10px;
+
+}
